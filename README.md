@@ -22,10 +22,10 @@ const vashitva = {
   title: "CS Graduate | Aspiring Data Analyst",
   stack: {
     query: ["SQL (Joins, Aggregations)"],
-    biTool: ["Power BI (DAX, Power Query, Data Modeling)"],
+    biTool: ["Power BI (DAX, Power Query, Data Modeling)", "Tableau"],
     spreadsheets: ["Excel (Pivot Tables, VLOOKUP)"],
     python: ["pandas", "numpy", "matplotlib"],
-    coreSkills: ["Data Cleaning", "Data Wrangling", "Data Storytelling"]
+    coreSkills: ["Data Cleaning", "Data Visualisation", "Data Storytelling"]
   },
   launchedProjects: ["HR-Dashboard", "AirBnb-Dashboard"],
   status: "Fresher — B.E. Computer Science Engineering graduate",
@@ -47,8 +47,8 @@ This HR Analytics Dashboard provides a comprehensive overview of employee attrit
 
 | Layer | Technology |
 |---|---|
-| BI Tool | Power BI |
-| Data Prep | Power Query, DAX |
+| BI Tool | Tableau |
+| Data Prep | Excel |
 | Analysis Focus | Attrition, Demographics, Salary Distribution, Department Performance |
 
 <div align="center">
@@ -91,6 +91,7 @@ An interactive Power BI dashboard analyzing Airbnb listings across multiple citi
 **BI & Spreadsheet Tools**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F85149?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-F85149?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-F85149?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Python Libraries**
@@ -102,7 +103,7 @@ An interactive Power BI dashboard analyzing Airbnb listings across multiple citi
 **Core Skills**
 
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-F85149?style=for-the-badge)
-![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-F85149?style=for-the-badge)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-F85149?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-F85149?style=for-the-badge)
 
 ---
