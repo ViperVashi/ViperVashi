@@ -42,7 +42,7 @@ const vashitva = {
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition, workforce demographics, salary distribution, and departmental performance — helping HR teams and business leaders identify attrition trends and make data-driven retention and workforce planning decisions.
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ViperVashi&repo=HR-Dashboard&theme=nord&border_color=F85149&title_color=F85149&cache_seconds=86400" />
+  <img src="https://raw.githubusercontent.com/ViperVashi/HR-Dashboard/main/hr%20dashboard.png" width="90%"/>
 </div>
 
 | Layer | Technology |
@@ -64,7 +64,7 @@ This HR Analytics Dashboard provides a comprehensive overview of employee attrit
 An interactive Power BI dashboard analyzing Airbnb listings across multiple cities to uncover trends in pricing, ratings, property availability, and overall market performance — enabling market comparison, spotting high-performing locations, and exploring customer satisfaction through dynamic visuals and KPI tracking.
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ViperVashi&repo=AirBnb-Dashboard&theme=nord&border_color=F85149&title_color=F85149&cache_seconds=86400" />
+  <img src="https://raw.githubusercontent.com/ViperVashi/AirBnb-Dashboard/main/air%20bnb%20ss.png" width="90%"/>
 </div>
 
 | Layer | Technology |
@@ -105,27 +105,6 @@ An interactive Power BI dashboard analyzing Airbnb listings across multiple citi
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-F85149?style=for-the-badge)
 ![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-F85149?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-F85149?style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ViperVashi&show_icons=true&theme=nord&border_color=F85149&title_color=F85149&icon_color=F85149&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViperVashi&layout=compact&theme=nord&border_color=F85149&title_color=F85149&text_color=c9d1d9&cache_seconds=86400"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ViperVashi&theme=nord&border=F85149&ring=F85149&fire=F85149&currStreakLabel=F85149"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViperVashi&theme=nord&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViperVashi&theme=react-dark&color=F85149&line=F85149&point=ffffff&area=true&hide_border=true"/>
-</div>
 
 ---
 
