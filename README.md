@@ -42,7 +42,7 @@ const vashitva = {
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition, workforce demographics, salary distribution, and departmental performance — helping HR teams and business leaders identify attrition trends and make data-driven retention and workforce planning decisions.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViperVashi&repo=HR-Dashboard&theme=nord&border_color=F85149&title_color=F85149" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ViperVashi&repo=HR-Dashboard&theme=nord&border_color=F85149&title_color=F85149&cache_seconds=86400" />
 </div>
 
 | Layer | Technology |
@@ -64,7 +64,7 @@ This HR Analytics Dashboard provides a comprehensive overview of employee attrit
 An interactive Power BI dashboard analyzing Airbnb listings across multiple cities to uncover trends in pricing, ratings, property availability, and overall market performance — enabling market comparison, spotting high-performing locations, and exploring customer satisfaction through dynamic visuals and KPI tracking.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViperVashi&repo=AirBnb-Dashboard&theme=nord&border_color=F85149&title_color=F85149" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=ViperVashi&repo=AirBnb-Dashboard&theme=nord&border_color=F85149&title_color=F85149&cache_seconds=86400" />
 </div>
 
 | Layer | Technology |
@@ -111,8 +111,8 @@ An interactive Power BI dashboard analyzing Airbnb listings across multiple citi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViperVashi&show_icons=true&theme=nord&border_color=F85149&title_color=F85149&icon_color=F85149&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperVashi&layout=compact&theme=nord&border_color=F85149&title_color=F85149&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ViperVashi&show_icons=true&theme=nord&border_color=F85149&title_color=F85149&icon_color=F85149&text_color=c9d1d9&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ViperVashi&layout=compact&theme=nord&border_color=F85149&title_color=F85149&text_color=c9d1d9&cache_seconds=86400"/>
 </div>
 
 <div align="center">
